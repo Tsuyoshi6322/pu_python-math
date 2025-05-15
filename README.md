@@ -1,15 +1,15 @@
 # pu_python-math
 
-Project for Uni Python classes - approximation of $\pi$ via Monte Carlo's method, Pythagorean trios and approximation of Euler's Constant $e$.
+Project for Uni Python classes - approximation of $\pi$ via Monte Carlo's method, Pythagorean triples and approximation of Euler's Constant $e$.
 
 ## Assignments
 
 1. Write a code that approximates $\pi$:
     - Use Monte Carlo's method.
-    - Test the program for 100 and 10K tries.
+    - Test the program for 100 and 10K samples.
 
-2. Write a code that definies and calculates Pythagorean Trio: $a^2+b^2=c^2$
-    - Accept variables `a`,`b`,`c` as input.
+2. Write a code that defines and calculates the Pythagorean Triple: $a^2+b^2=c^2$
+    - Accept variables `a`,`b`,`c` as an integer input.
     - Include a check to verify if they form a right triangle.
 
 3. Write a code that calculates the sum for any value `n` using the formula
@@ -59,7 +59,7 @@ $$
 3. Repeat this for all points and calculate the results:
    $$\pi \approx 4 \times \frac{\text{Points inside circle}}{\text{Total points}}$$
 
-### Pythagorean Trio
+### Pythagorean Triple
 
 There are two steps that need to be performed for this assignment:
 
