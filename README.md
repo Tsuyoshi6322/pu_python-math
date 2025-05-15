@@ -82,5 +82,6 @@ $$\sum_{k=1}^{n}(2k-1)$$
 ### Approximate Euler's Constant $e$
 
 Euler's Constant $e$ is a transcendental number (can't be written as a solution to any algebraic equation).
+
 It's most commonly approximated via an infinite series:
 $$e = \sum_{n=0}^{\infty}\frac{1}{n!}$$
