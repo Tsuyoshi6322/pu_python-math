@@ -13,7 +13,7 @@ Project for Uni classes of Python - approximising $\pi$, Pythagorean triples and
     - Include a check to verify if they form a right triangle.
 
 3. Write a code that calculates the sum for any value `n` using the formula
-    $\sum_{k=1}^{n}(2k-1)$
+    $$\sum_{k=1}^{n}(2k-1)$$
 
 4. Write a code that approximates Euler's number using the infinite series
-    $e = \sum_{n=0}^{\infty}\frac{1}{n!}$
+    $$e = \sum_{n=0}^{\infty}\frac{1}{n!}$$
