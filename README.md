@@ -15,7 +15,7 @@ Project for Uni Python classes - approximation of $\pi$ via Monte Carlo's method
 3. Write a code that calculates the sum for any value `n` using the formula
     $$\sum_{k=1}^{n}(2k-1)$$
 
-4. Write a code that approximates Euler's number using the infinite series
+4. Write a code that approximates Euler's constant using the infinite series
     $$e = \sum_{n=0}^{\infty}\frac{1}{n!}$$
 
 ## In depth info

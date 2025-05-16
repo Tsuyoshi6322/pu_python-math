@@ -17,7 +17,7 @@ def pi_monte_carlo(amount_samples: int) -> float:
         y = random.uniform(-1, 1)
 
         # Check if the point falls inside a circle
-        if x**2 + y**2 <= 1:
+        if (x**2 + y**2 <= 1):
             points_inside_circle += 1
 
     # Return the approximation of pi
